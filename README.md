@@ -20,6 +20,9 @@ This project allows users to **add, update, sell, restock, and track profits** o
 Screenshot of interavtive console:
 <img width="1287" height="277" alt="InventoryManagerSC" src="https://github.com/user-attachments/assets/5628c6fb-13b9-43f6-8b1d-8a18ce781e91" />
 
+👤 Author Lumko Mtengwane
+
+Data Science | Machine Learning | Analytics
 
 
 
